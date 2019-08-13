@@ -2,9 +2,4 @@
   "name": "Telegram URLUploader",
   "TOKEN": "Telegram token",
   "description": "This app does one little thing, and does it well.",
-  "keywords": [
-    "productivity",
-    "HTML5",
-    "scalpel"
-  ],
 }
