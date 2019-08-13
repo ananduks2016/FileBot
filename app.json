@@ -1,7 +1,6 @@
 {
   "name": "Telegram URLUploader",
-  "description": "Basic Telegram URL Uploader for Heroku",
-  "repository": "https://github.com/ananduks2016/fileassistantbot",
-  "logo": "http://icons.iconarchive.com/icons/graphicloads/100-flat/256/upload-icon.png",
-  "keywords": ["telegram", "url", "upload"]
+  "TOKEN": "Telegram token",
+  "CHAT_ID": "Chat ID to send messages directly",
+  "CHECK_FOLDER": "Path of the folder where files will be checked"
 }
