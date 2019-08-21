@@ -2,7 +2,7 @@
 
 Available Commands:
 
-.think"""
+.umms"""
 
 from telethon import events
 
@@ -20,24 +20,24 @@ async def _(event):
     if input_str == "think":
         await event.edit(input_str)
         animation_chars = [
-            "THINKING",
-            "THI&K#N₹",
-            "T+IN@I?G",
-            "¿H$NK∆NG",
-            "¶H×NK&N*",
-            "NGITHKIN",
+            "ANANDUS",
+            "PINKUS",
+            "ANANDUS😍😍😘",
+            "KAVYA🧡🧡",
+            "LOVE💕💕💕*",
+            "ANANDUS💖",
+            "LOVE FOR EVER",
+            "UMMMMMMMAHH",
+            "MICHU👁️👁️",
+            "LUB",
+            "you",
+            "KAVU*",
+            "LOVE FOR EVER AND EVER",
             "T+I#K@₹G",
-            "THINKING",
-            "THI&K#N₹",
-            "T+IN@I?G",
-            "¿H$NK∆NG",
+            "SEE YA",
+            "ഒരു ഉമ്മ",
+            "തരുവോ",
             "¶H×NK&N*",
-            "NGITHKIN",
-            "T+I#K@₹G",
-            "THINKING",
-            "THI&K#N₹",
-            "T+IN@I?G",
-            "¿H$NK∆NG",
             "¶H×NK&N*",
             "NGITHKIN",
             "T+I#K@₹G",
